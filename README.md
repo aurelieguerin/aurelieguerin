@@ -77,7 +77,3 @@ Small deployment-ready services with S3, Route53, and GitHub Actions.
 - Automating deployments with GitHub Actions and S3  
 - Building an LLM-powered AI agent with LangChain and OpenAI  
 - Writing clear and reusable documentation
-
----
-
-
