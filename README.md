@@ -21,7 +21,7 @@ I approach every project with an engineering mindset: clean code, reusable compo
 
 ## 🚀 Projects
 
-#### Serverless Backend Service  
+#### [Serverless Backend Service](https://github.com/aurelieguerin/contact-form-api)  
 A RESTful API built with AWS Lambda, API Gateway, and DynamoDB — designed to simulate a scalable, production-ready backend system.  
 `Python` · `AWS` · `REST API` · `Serverless`
 
